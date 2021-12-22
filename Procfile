@@ -1,0 +1,1 @@
+web: gunicorn afternoon-taiga-47270.wsgi --log-file -
